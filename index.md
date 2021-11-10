@@ -1,29 +1,9 @@
 ---
-title: "Hello and welcome"
+title: "Welcome to the blog"
 ---
 
-Hey,
+I'm glad you are here. 
 
+Here is a space for all things threeC.tv ranging from features, tech to people.
 
-Welcome to threeC.tv first blog post.
-
-
-This is going to be the start of a journey. Are we going to make it? I hope so and I hope you can be around for the journey.
-
-
-The platform is growing steadily and I hope it turns into something good and a friendly place for people to stream and build their own community and join the community as a whole.
-
-
-If people are interested I'll be posting tech stuff here.
-
-
-But check out the site and see you on Discord.
-
-
-Thanks
-
-
-Adam
-
-
-https://threec.tv
+Enjoy...
