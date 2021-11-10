@@ -9,3 +9,4 @@ twitter_username: threeCTV # DO NOT include the @ character, or else the build w
 github_username:  threec-tv # DO NOT include the @ character, or else the build will fail!
 
 theme: jekyll-theme-slate
+encoding: UTF-8
