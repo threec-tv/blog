@@ -9,3 +9,5 @@ twitter_username: threeCTV # DO NOT include the @ character, or else the build w
 github_username:  threec-tv # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: jekyll-theme-slate
