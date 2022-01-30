@@ -12,6 +12,7 @@ Enjoy...
   {% for post in site.posts %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h4><a href="{{ post.url }}">{{ post.date }}</a></h2>
       {{ post.excerpt }}
     </li>
   {% endfor %}
